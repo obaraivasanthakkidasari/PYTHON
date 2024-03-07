@@ -1,4 +1,0 @@
-#Take the user name and wish the user.
-
-user = input("Enter your name :")
-print("Hello", user)
